@@ -210,26 +210,37 @@ class SquareRenderer extends Renderer {
     for (var i = 0; i < photos.length; i++) {
       var photo = photos[i];
       var image = document.createElement('div');
+      var frame = document.createElement('div');
+
+      frame.style.backgroundColor = '#ffffff';
+      frame.style.width = px(height);
+      frame.style.height = px(height);
+      frame.style.padding = px(10);
+      frame.style.boxSizing = 'border-box';
+      frame.style.display = 'inline-block';
+      frame.setAttribute("data-action", "zoom");
 
       image.style.backgroundImage = "url('" + photo.src() + "')";
       image.style.backgroundRepeat = 'no-repeat';
       image.style.backgroundPosition = 'center';
-      image.style.backgroundSize = 'cover'
+      image.style.backgroundSize = 'contain';
+      image.style.backgroundColor = '#ffffff';
 
-      image.style.width = px(height); // Square photo
-      image.style.height = px(height);
-      image.style.display = 'inline-block';
-      image.setAttribute("data-action", "zoom");
+      image.style.width = '100%'; // Square photo
+      image.style.height = '100%';
+    //   image.style.display = 'inline-block';
+    //   image.setAttribute("data-action", "zoom");
       if (photo.isCompressed()) {
         image.setAttribute("data-original", photo.originalSrc());
       }
 
       // Only apply margins to second to last.
       if (i !== 0) {
-        image.style.marginLeft = px(config.spacing);
+        frame.style.marginLeft = px(config.spacing);
       }
 
-      rowElem.appendChild(image);
+      frame.appendChild(image);
+      rowElem.appendChild(frame);
     }
     return rowElem;
   }
