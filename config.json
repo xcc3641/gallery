@@ -1,36 +1,36 @@
 {
-  "\u516b\u6708": [
+  "Sky-in-August": [
     {
       "height": 4000,
-      "compressed_path": "./photos/\u516b\u6708/sky-01.min.jpg",
+      "compressed_path": "./photos/Sky-in-August/sky-01.min.jpg",
       "width": 6000,
       "compressed": false,
-      "placeholder_path": "./photos/\u516b\u6708/sky-01.placeholder.jpg",
-      "path": "./photos/\u516b\u6708/sky-01.jpg"
+      "placeholder_path": "./photos/Sky-in-August/sky-01.placeholder.jpg",
+      "path": "./photos/Sky-in-August/sky-01.jpg"
     },
     {
       "height": 4000,
-      "compressed_path": "./photos/\u516b\u6708/sky-02.min.jpg",
+      "compressed_path": "./photos/Sky-in-August/sky-02.min.jpg",
       "width": 6000,
       "compressed": false,
-      "placeholder_path": "./photos/\u516b\u6708/sky-02.placeholder.jpg",
-      "path": "./photos/\u516b\u6708/sky-02.jpg"
+      "placeholder_path": "./photos/Sky-in-August/sky-02.placeholder.jpg",
+      "path": "./photos/Sky-in-August/sky-02.jpg"
     },
     {
       "height": 6000,
-      "compressed_path": "./photos/\u516b\u6708/sky-03.min.jpg",
+      "compressed_path": "./photos/Sky-in-August/sky-03.min.jpg",
       "width": 4000,
       "compressed": false,
-      "placeholder_path": "./photos/\u516b\u6708/sky-03.placeholder.jpg",
-      "path": "./photos/\u516b\u6708/sky-03.jpg"
+      "placeholder_path": "./photos/Sky-in-August/sky-03.placeholder.jpg",
+      "path": "./photos/Sky-in-August/sky-03.jpg"
     },
     {
       "height": 6000,
-      "compressed_path": "./photos/\u516b\u6708/sky-04.min.jpg",
+      "compressed_path": "./photos/Sky-in-August/sky-04.min.jpg",
       "width": 4000,
       "compressed": false,
-      "placeholder_path": "./photos/\u516b\u6708/sky-04.placeholder.jpg",
-      "path": "./photos/\u516b\u6708/sky-04.jpg"
+      "placeholder_path": "./photos/Sky-in-August/sky-04.placeholder.jpg",
+      "path": "./photos/Sky-in-August/sky-04.jpg"
     }
   ]
 }
