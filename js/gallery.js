@@ -191,7 +191,7 @@ class SquareRenderer extends Renderer {
           break;
         }
 
-        rowPhotos.push(photos.pop());
+        rowPhotos.push(photos.shift());
       }
       sectionElem.appendChild(this.createRow(config, section, rowPhotos, height));
     }
