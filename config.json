@@ -2,6 +2,14 @@
   "\u516b\u6708": [
     {
       "height": 4000,
+      "compressed_path": "./photos/\u516b\u6708/sky-01.min.jpg",
+      "width": 6000,
+      "compressed": false,
+      "placeholder_path": "./photos/\u516b\u6708/sky-01.placeholder.jpg",
+      "path": "./photos/\u516b\u6708/sky-01.jpg"
+    },
+    {
+      "height": 4000,
       "compressed_path": "./photos/\u516b\u6708/sky-02.min.jpg",
       "width": 6000,
       "compressed": false,
@@ -15,14 +23,6 @@
       "compressed": false,
       "placeholder_path": "./photos/\u516b\u6708/sky-03.placeholder.jpg",
       "path": "./photos/\u516b\u6708/sky-03.jpg"
-    },
-    {
-      "height": 4000,
-      "compressed_path": "./photos/\u516b\u6708/sky-01.min.jpg",
-      "width": 6000,
-      "compressed": false,
-      "placeholder_path": "./photos/\u516b\u6708/sky-01.placeholder.jpg",
-      "path": "./photos/\u516b\u6708/sky-01.jpg"
     },
     {
       "height": 6000,
