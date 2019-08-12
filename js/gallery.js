@@ -338,12 +338,12 @@ class HorizontalRenderer extends Renderer {
  */
 class Photo {
   constructor(p) {
-    this.path = p.path;
+    this.path = p.path + '?';
     this._width = p.width;
     this._height = p.height;
     this._is_compressed = p.compressed;
-    this.placeholder_path = p.placeholder_path;
-    this.compressed_path = p.compressed_path;
+    this.placeholder_path = p.placeholder_path + '?';
+    this.compressed_path = p.compressed_path + '?';
 
     this.aspectRatio = this._width / parseFloat(this._height);
   };
