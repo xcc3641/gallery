@@ -73,7 +73,7 @@ def get_images(path):
 
 
 def write_config(config):
-    with open(PATH + 'config.json', 'w') as f:
+    with open(PATH + '_data/config.json', 'w') as f:
         f.write(json.dumps(config, indent=2, separators=(',', ': ')))
 
 
