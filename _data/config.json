@@ -1,150 +1,322 @@
 {
-  "Street photography in August 2019": [
+  "Street Photography, August 2019": [
     {
-      "width": 4864,
       "height": 3243,
-      "path": "./photos/Street photography in August 2019/street-1.jpg",
-      "compressed_path": "./photos/Street photography in August 2019/street-1.min.jpg",
+      "compressed_path": "./photos/Street Photography, August 2019/street-1.min.jpg",
+      "width": 4864,
       "compressed": true,
-      "placeholder_path": "./photos/Street photography in August 2019/street-1.placeholder.jpg"
+      "placeholder_path": "./photos/Street Photography, August 2019/street-1.placeholder.jpg",
+      "path": "./photos/Street Photography, August 2019/street-1.jpg"
     },
     {
-      "width": 6000,
       "height": 4000,
-      "path": "./photos/Street photography in August 2019/street-2.jpg",
-      "compressed_path": "./photos/Street photography in August 2019/street-2.min.jpg",
+      "compressed_path": "./photos/Street Photography, August 2019/street-2.min.jpg",
+      "width": 6000,
       "compressed": true,
-      "placeholder_path": "./photos/Street photography in August 2019/street-2.placeholder.jpg"
+      "placeholder_path": "./photos/Street Photography, August 2019/street-2.placeholder.jpg",
+      "path": "./photos/Street Photography, August 2019/street-2.jpg"
     },
     {
-      "width": 5845,
       "height": 3897,
-      "path": "./photos/Street photography in August 2019/street-3.jpg",
-      "compressed_path": "./photos/Street photography in August 2019/street-3.min.jpg",
+      "compressed_path": "./photos/Street Photography, August 2019/street-3.min.jpg",
+      "width": 5845,
       "compressed": true,
-      "placeholder_path": "./photos/Street photography in August 2019/street-3.placeholder.jpg"
+      "placeholder_path": "./photos/Street Photography, August 2019/street-3.placeholder.jpg",
+      "path": "./photos/Street Photography, August 2019/street-3.jpg"
     },
     {
-      "width": 4000,
       "height": 6000,
-      "path": "./photos/Street photography in August 2019/street-4.jpg",
-      "compressed_path": "./photos/Street photography in August 2019/street-4.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Street photography in August 2019/street-4.placeholder.jpg"
-    },
-    {
+      "compressed_path": "./photos/Street Photography, August 2019/street-4.min.jpg",
       "width": 4000,
-      "height": 6000,
-      "path": "./photos/Street photography in August 2019/street-5.jpg",
-      "compressed_path": "./photos/Street photography in August 2019/street-5.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Street photography in August 2019/street-5.placeholder.jpg"
+      "placeholder_path": "./photos/Street Photography, August 2019/street-4.placeholder.jpg",
+      "path": "./photos/Street Photography, August 2019/street-4.jpg"
     },
     {
+      "height": 6000,
+      "compressed_path": "./photos/Street Photography, August 2019/street-5.min.jpg",
       "width": 4000,
-      "height": 6000,
-      "path": "./photos/Street photography in August 2019/street-6.jpg",
-      "compressed_path": "./photos/Street photography in August 2019/street-6.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Street photography in August 2019/street-6.placeholder.jpg"
+      "placeholder_path": "./photos/Street Photography, August 2019/street-5.placeholder.jpg",
+      "path": "./photos/Street Photography, August 2019/street-5.jpg"
     },
     {
+      "height": 6000,
+      "compressed_path": "./photos/Street Photography, August 2019/street-6.min.jpg",
       "width": 4000,
-      "height": 6000,
-      "path": "./photos/Street photography in August 2019/street-7.jpg",
-      "compressed_path": "./photos/Street photography in August 2019/street-7.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Street photography in August 2019/street-7.placeholder.jpg"
+      "placeholder_path": "./photos/Street Photography, August 2019/street-6.placeholder.jpg",
+      "path": "./photos/Street Photography, August 2019/street-6.jpg"
     },
     {
-      "width": 3393,
+      "height": 6000,
+      "compressed_path": "./photos/Street Photography, August 2019/street-7.min.jpg",
+      "width": 4000,
+      "compressed": true,
+      "placeholder_path": "./photos/Street Photography, August 2019/street-7.placeholder.jpg",
+      "path": "./photos/Street Photography, August 2019/street-7.jpg"
+    },
+    {
       "height": 5089,
-      "path": "./photos/Street photography in August 2019/street-8.jpg",
-      "compressed_path": "./photos/Street photography in August 2019/street-8.min.jpg",
+      "compressed_path": "./photos/Street Photography, August 2019/street-8.min.jpg",
+      "width": 3393,
       "compressed": true,
-      "placeholder_path": "./photos/Street photography in August 2019/street-8.placeholder.jpg"
+      "placeholder_path": "./photos/Street Photography, August 2019/street-8.placeholder.jpg",
+      "path": "./photos/Street Photography, August 2019/street-8.jpg"
     },
     {
-      "width": 3996,
       "height": 5994,
-      "path": "./photos/Street photography in August 2019/street-9.jpg",
-      "compressed_path": "./photos/Street photography in August 2019/street-9.min.jpg",
+      "compressed_path": "./photos/Street Photography, August 2019/street-9.min.jpg",
+      "width": 3996,
       "compressed": true,
-      "placeholder_path": "./photos/Street photography in August 2019/street-9.placeholder.jpg"
+      "placeholder_path": "./photos/Street Photography, August 2019/street-9.placeholder.jpg",
+      "path": "./photos/Street Photography, August 2019/street-9.jpg"
     }
-  ], 
-  "Sky in August 2019": [
+  ],
+  "Sky, August 2019": [
     {
-      "width": 6000,
       "height": 4000,
-      "path": "./photos/Sky in August 2019/sky-01.jpg",
-      "compressed_path": "./photos/Sky in August 2019/sky-01.min.jpg",
+      "compressed_path": "./photos/Sky, August 2019/sky-01.min.jpg",
+      "width": 6000,
       "compressed": true,
-      "placeholder_path": "./photos/Sky in August 2019/sky-01.placeholder.jpg"
+      "placeholder_path": "./photos/Sky, August 2019/sky-01.placeholder.jpg",
+      "path": "./photos/Sky, August 2019/sky-01.jpg"
     },
     {
-      "width": 6000,
       "height": 4000,
-      "path": "./photos/Sky in August 2019/sky-02.jpg",
-      "compressed_path": "./photos/Sky in August 2019/sky-02.min.jpg",
+      "compressed_path": "./photos/Sky, August 2019/sky-02.min.jpg",
+      "width": 6000,
       "compressed": true,
-      "placeholder_path": "./photos/Sky in August 2019/sky-02.placeholder.jpg"
+      "placeholder_path": "./photos/Sky, August 2019/sky-02.placeholder.jpg",
+      "path": "./photos/Sky, August 2019/sky-02.jpg"
     },
     {
-      "width": 5432,
       "height": 3621,
-      "path": "./photos/Sky in August 2019/sky-03.jpg",
-      "compressed_path": "./photos/Sky in August 2019/sky-03.min.jpg",
+      "compressed_path": "./photos/Sky, August 2019/sky-03.min.jpg",
+      "width": 5432,
       "compressed": true,
-      "placeholder_path": "./photos/Sky in August 2019/sky-03.placeholder.jpg"
+      "placeholder_path": "./photos/Sky, August 2019/sky-03.placeholder.jpg",
+      "path": "./photos/Sky, August 2019/sky-03.jpg"
     },
     {
-      "width": 4000,
       "height": 6000,
-      "path": "./photos/Sky in August 2019/sky-04.jpg",
-      "compressed_path": "./photos/Sky in August 2019/sky-04.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Sky in August 2019/sky-04.placeholder.jpg"
-    },
-    {
+      "compressed_path": "./photos/Sky, August 2019/sky-04.min.jpg",
       "width": 4000,
-      "height": 6000,
-      "path": "./photos/Sky in August 2019/sky-05.jpg",
-      "compressed_path": "./photos/Sky in August 2019/sky-05.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Sky in August 2019/sky-05.placeholder.jpg"
+      "placeholder_path": "./photos/Sky, August 2019/sky-04.placeholder.jpg",
+      "path": "./photos/Sky, August 2019/sky-04.jpg"
     },
     {
-      "width": 3265,
+      "height": 6000,
+      "compressed_path": "./photos/Sky, August 2019/sky-05.min.jpg",
+      "width": 4000,
+      "compressed": true,
+      "placeholder_path": "./photos/Sky, August 2019/sky-05.placeholder.jpg",
+      "path": "./photos/Sky, August 2019/sky-05.jpg"
+    },
+    {
       "height": 4898,
-      "path": "./photos/Sky in August 2019/sky-06.jpg",
-      "compressed_path": "./photos/Sky in August 2019/sky-06.min.jpg",
+      "compressed_path": "./photos/Sky, August 2019/sky-06.min.jpg",
+      "width": 3265,
       "compressed": true,
-      "placeholder_path": "./photos/Sky in August 2019/sky-06.placeholder.jpg"
+      "placeholder_path": "./photos/Sky, August 2019/sky-06.placeholder.jpg",
+      "path": "./photos/Sky, August 2019/sky-06.jpg"
     },
     {
-      "width": 5833,
       "height": 3889,
-      "path": "./photos/Sky in August 2019/sky-07.jpg",
-      "compressed_path": "./photos/Sky in August 2019/sky-07.min.jpg",
+      "compressed_path": "./photos/Sky, August 2019/sky-07.min.jpg",
+      "width": 5833,
       "compressed": true,
-      "placeholder_path": "./photos/Sky in August 2019/sky-07.placeholder.jpg"
+      "placeholder_path": "./photos/Sky, August 2019/sky-07.placeholder.jpg",
+      "path": "./photos/Sky, August 2019/sky-07.jpg"
     },
     {
-      "width": 6000,
       "height": 4000,
-      "path": "./photos/Sky in August 2019/sky-08.jpg",
-      "compressed_path": "./photos/Sky in August 2019/sky-08.min.jpg",
+      "compressed_path": "./photos/Sky, August 2019/sky-08.min.jpg",
+      "width": 6000,
       "compressed": true,
-      "placeholder_path": "./photos/Sky in August 2019/sky-08.placeholder.jpg"
+      "placeholder_path": "./photos/Sky, August 2019/sky-08.placeholder.jpg",
+      "path": "./photos/Sky, August 2019/sky-08.jpg"
     },
     {
-      "width": 4898,
       "height": 3265,
-      "path": "./photos/Sky in August 2019/sky-09.jpg",
-      "compressed_path": "./photos/Sky in August 2019/sky-09.min.jpg",
+      "compressed_path": "./photos/Sky, August 2019/sky-09.min.jpg",
+      "width": 4898,
       "compressed": true,
-      "placeholder_path": "./photos/Sky in August 2019/sky-09.placeholder.jpg"
+      "placeholder_path": "./photos/Sky, August 2019/sky-09.placeholder.jpg",
+      "path": "./photos/Sky, August 2019/sky-09.jpg"
+    }
+  ],
+  "San Francisco, May 2019": [
+    {
+      "height": 4898,
+      "compressed_path": "./photos/San Francisco, May 2019/01.min.jpg",
+      "width": 3265,
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco, May 2019/01.placeholder.jpg",
+      "path": "./photos/San Francisco, May 2019/01.jpg"
+    },
+    {
+      "height": 4650,
+      "compressed_path": "./photos/San Francisco, May 2019/02.min.jpg",
+      "width": 3100,
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco, May 2019/02.placeholder.jpg",
+      "path": "./photos/San Francisco, May 2019/02.jpg"
+    },
+    {
+      "height": 4898,
+      "compressed_path": "./photos/San Francisco, May 2019/03.min.jpg",
+      "width": 3266,
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco, May 2019/03.placeholder.jpg",
+      "path": "./photos/San Francisco, May 2019/03.jpg"
+    },
+    {
+      "height": 2696,
+      "compressed_path": "./photos/San Francisco, May 2019/04.min.jpg",
+      "width": 4045,
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco, May 2019/04.placeholder.jpg",
+      "path": "./photos/San Francisco, May 2019/04.jpg"
+    },
+    {
+      "height": 1184,
+      "compressed_path": "./photos/San Francisco, May 2019/05.min.jpg",
+      "width": 1776,
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco, May 2019/05.placeholder.jpg",
+      "path": "./photos/San Francisco, May 2019/05.jpg"
+    },
+    {
+      "height": 3265,
+      "compressed_path": "./photos/San Francisco, May 2019/06.min.jpg",
+      "width": 4898,
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco, May 2019/06.placeholder.jpg",
+      "path": "./photos/San Francisco, May 2019/06.jpg"
+    },
+    {
+      "height": 3266,
+      "compressed_path": "./photos/San Francisco, May 2019/07.min.jpg",
+      "width": 4899,
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco, May 2019/07.placeholder.jpg",
+      "path": "./photos/San Francisco, May 2019/07.jpg"
+    },
+    {
+      "height": 3265,
+      "compressed_path": "./photos/San Francisco, May 2019/08.min.jpg",
+      "width": 4898,
+      "compressed": true,
+      "placeholder_path": "./photos/San Francisco, May 2019/08.placeholder.jpg",
+      "path": "./photos/San Francisco, May 2019/08.jpg"
+    }
+  ],
+  "Hokkaido, December 2018": [
+    {
+      "height": 3249,
+      "compressed_path": "./photos/Hokkaido, December 2018/01.min.jpg",
+      "width": 4924,
+      "compressed": true,
+      "placeholder_path": "./photos/Hokkaido, December 2018/01.placeholder.jpg",
+      "path": "./photos/Hokkaido, December 2018/01.jpg"
+    },
+    {
+      "height": 2826,
+      "compressed_path": "./photos/Hokkaido, December 2018/02.min.jpeg",
+      "width": 4241,
+      "compressed": true,
+      "placeholder_path": "./photos/Hokkaido, December 2018/02.placeholder.jpeg",
+      "path": "./photos/Hokkaido, December 2018/02.jpeg"
+    },
+    {
+      "height": 4898,
+      "compressed_path": "./photos/Hokkaido, December 2018/03.min.jpg",
+      "width": 3265,
+      "compressed": true,
+      "placeholder_path": "./photos/Hokkaido, December 2018/03.placeholder.jpg",
+      "path": "./photos/Hokkaido, December 2018/03.jpg"
+    },
+    {
+      "height": 3201,
+      "compressed_path": "./photos/Hokkaido, December 2018/04.min.jpg",
+      "width": 4806,
+      "compressed": true,
+      "placeholder_path": "./photos/Hokkaido, December 2018/04.placeholder.jpg",
+      "path": "./photos/Hokkaido, December 2018/04.jpg"
+    },
+    {
+      "height": 3265,
+      "compressed_path": "./photos/Hokkaido, December 2018/05.min.jpg",
+      "width": 4898,
+      "compressed": true,
+      "placeholder_path": "./photos/Hokkaido, December 2018/05.placeholder.jpg",
+      "path": "./photos/Hokkaido, December 2018/05.jpg"
+    },
+    {
+      "height": 3265,
+      "compressed_path": "./photos/Hokkaido, December 2018/06.min.jpg",
+      "width": 4898,
+      "compressed": true,
+      "placeholder_path": "./photos/Hokkaido, December 2018/06.placeholder.jpg",
+      "path": "./photos/Hokkaido, December 2018/06.jpg"
+    },
+    {
+      "height": 2897,
+      "compressed_path": "./photos/Hokkaido, December 2018/07.min.jpg",
+      "width": 4344,
+      "compressed": true,
+      "placeholder_path": "./photos/Hokkaido, December 2018/07.placeholder.jpg",
+      "path": "./photos/Hokkaido, December 2018/07.jpg"
+    },
+    {
+      "height": 2530,
+      "compressed_path": "./photos/Hokkaido, December 2018/08.min.jpg",
+      "width": 4378,
+      "compressed": true,
+      "placeholder_path": "./photos/Hokkaido, December 2018/08.placeholder.jpg",
+      "path": "./photos/Hokkaido, December 2018/08.jpg"
+    },
+    {
+      "height": 3266,
+      "compressed_path": "./photos/Hokkaido, December 2018/09.min.jpg",
+      "width": 4897,
+      "compressed": true,
+      "placeholder_path": "./photos/Hokkaido, December 2018/09.placeholder.jpg",
+      "path": "./photos/Hokkaido, December 2018/09.jpg"
+    },
+    {
+      "height": 2109,
+      "compressed_path": "./photos/Hokkaido, December 2018/10.min.jpg",
+      "width": 3435,
+      "compressed": true,
+      "placeholder_path": "./photos/Hokkaido, December 2018/10.placeholder.jpg",
+      "path": "./photos/Hokkaido, December 2018/10.jpg"
+    },
+    {
+      "height": 2700,
+      "compressed_path": "./photos/Hokkaido, December 2018/11.min.jpg",
+      "width": 6000,
+      "compressed": true,
+      "placeholder_path": "./photos/Hokkaido, December 2018/11.placeholder.jpg",
+      "path": "./photos/Hokkaido, December 2018/11.jpg"
+    },
+    {
+      "height": 3266,
+      "compressed_path": "./photos/Hokkaido, December 2018/12.min.jpg",
+      "width": 4897,
+      "compressed": true,
+      "placeholder_path": "./photos/Hokkaido, December 2018/12.placeholder.jpg",
+      "path": "./photos/Hokkaido, December 2018/12.jpg"
+    },
+    {
+      "height": 2812,
+      "compressed_path": "./photos/Hokkaido, December 2018/13.min.jpg",
+      "width": 4220,
+      "compressed": true,
+      "placeholder_path": "./photos/Hokkaido, December 2018/13.placeholder.jpg",
+      "path": "./photos/Hokkaido, December 2018/13.jpg"
     }
   ]
 }
