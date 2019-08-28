@@ -213,6 +213,96 @@
       "path": "./photos/San Francisco, May 2019/08.jpg"
     }
   ],
+  "Film of Kodak Gold & Color 200 in 2019": [
+    {
+      "height": 3027,
+      "compressed_path": "./photos/Film of Kodak Gold & Color 200 in 2019/1.min.jpg",
+      "width": 4585,
+      "compressed": true,
+      "placeholder_path": "./photos/Film of Kodak Gold & Color 200 in 2019/1.placeholder.jpg",
+      "path": "./photos/Film of Kodak Gold & Color 200 in 2019/1.jpg"
+    },
+    {
+      "height": 3027,
+      "compressed_path": "./photos/Film of Kodak Gold & Color 200 in 2019/10.min.jpg",
+      "width": 4585,
+      "compressed": true,
+      "placeholder_path": "./photos/Film of Kodak Gold & Color 200 in 2019/10.placeholder.jpg",
+      "path": "./photos/Film of Kodak Gold & Color 200 in 2019/10.jpg"
+    },
+    {
+      "height": 3027,
+      "compressed_path": "./photos/Film of Kodak Gold & Color 200 in 2019/11.min.jpg",
+      "width": 4585,
+      "compressed": true,
+      "placeholder_path": "./photos/Film of Kodak Gold & Color 200 in 2019/11.placeholder.jpg",
+      "path": "./photos/Film of Kodak Gold & Color 200 in 2019/11.jpg"
+    },
+    {
+      "height": 3027,
+      "compressed_path": "./photos/Film of Kodak Gold & Color 200 in 2019/2.min.jpg",
+      "width": 4585,
+      "compressed": true,
+      "placeholder_path": "./photos/Film of Kodak Gold & Color 200 in 2019/2.placeholder.jpg",
+      "path": "./photos/Film of Kodak Gold & Color 200 in 2019/2.jpg"
+    },
+    {
+      "height": 3047,
+      "compressed_path": "./photos/Film of Kodak Gold & Color 200 in 2019/3.min.jpg",
+      "width": 4559,
+      "compressed": true,
+      "placeholder_path": "./photos/Film of Kodak Gold & Color 200 in 2019/3.placeholder.jpg",
+      "path": "./photos/Film of Kodak Gold & Color 200 in 2019/3.jpg"
+    },
+    {
+      "height": 3027,
+      "compressed_path": "./photos/Film of Kodak Gold & Color 200 in 2019/4.min.jpg",
+      "width": 4585,
+      "compressed": true,
+      "placeholder_path": "./photos/Film of Kodak Gold & Color 200 in 2019/4.placeholder.jpg",
+      "path": "./photos/Film of Kodak Gold & Color 200 in 2019/4.jpg"
+    },
+    {
+      "height": 3027,
+      "compressed_path": "./photos/Film of Kodak Gold & Color 200 in 2019/5.min.jpg",
+      "width": 4585,
+      "compressed": true,
+      "placeholder_path": "./photos/Film of Kodak Gold & Color 200 in 2019/5.placeholder.jpg",
+      "path": "./photos/Film of Kodak Gold & Color 200 in 2019/5.jpg"
+    },
+    {
+      "height": 3047,
+      "compressed_path": "./photos/Film of Kodak Gold & Color 200 in 2019/6.min.jpg",
+      "width": 4559,
+      "compressed": true,
+      "placeholder_path": "./photos/Film of Kodak Gold & Color 200 in 2019/6.placeholder.jpg",
+      "path": "./photos/Film of Kodak Gold & Color 200 in 2019/6.jpg"
+    },
+    {
+      "height": 3027,
+      "compressed_path": "./photos/Film of Kodak Gold & Color 200 in 2019/7.min.jpg",
+      "width": 4585,
+      "compressed": true,
+      "placeholder_path": "./photos/Film of Kodak Gold & Color 200 in 2019/7.placeholder.jpg",
+      "path": "./photos/Film of Kodak Gold & Color 200 in 2019/7.jpg"
+    },
+    {
+      "height": 3027,
+      "compressed_path": "./photos/Film of Kodak Gold & Color 200 in 2019/8.min.jpg",
+      "width": 4585,
+      "compressed": true,
+      "placeholder_path": "./photos/Film of Kodak Gold & Color 200 in 2019/8.placeholder.jpg",
+      "path": "./photos/Film of Kodak Gold & Color 200 in 2019/8.jpg"
+    },
+    {
+      "height": 3027,
+      "compressed_path": "./photos/Film of Kodak Gold & Color 200 in 2019/9.min.jpg",
+      "width": 4585,
+      "compressed": true,
+      "placeholder_path": "./photos/Film of Kodak Gold & Color 200 in 2019/9.placeholder.jpg",
+      "path": "./photos/Film of Kodak Gold & Color 200 in 2019/9.jpg"
+    }
+  ],
   "Hokkaido, December 2018": [
     {
       "height": 3249,
