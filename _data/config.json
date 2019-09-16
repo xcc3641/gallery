@@ -1,5 +1,121 @@
 [
   {
+    "name": "Osaka & Kyoto",
+    "type": "photos",
+    "parents": [
+      "2019",
+      "September",
+      "Osaka & Kyoto"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 3937,
+        "height": 5905,
+        "path": "./photos/2019/September/Osaka & Kyoto/01.jpg",
+        "min_path": "./photos/2019/September/Osaka & Kyoto/01.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3723,
+        "height": 5584,
+        "path": "./photos/2019/September/Osaka & Kyoto/02.jpg",
+        "min_path": "./photos/2019/September/Osaka & Kyoto/02.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3798,
+        "height": 5697,
+        "path": "./photos/2019/September/Osaka & Kyoto/03.jpg",
+        "min_path": "./photos/2019/September/Osaka & Kyoto/03.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2611,
+        "height": 3916,
+        "path": "./photos/2019/September/Osaka & Kyoto/04.jpg",
+        "min_path": "./photos/2019/September/Osaka & Kyoto/04.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2380,
+        "height": 4759,
+        "path": "./photos/2019/September/Osaka & Kyoto/05.jpg",
+        "min_path": "./photos/2019/September/Osaka & Kyoto/05.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3651,
+        "height": 5476,
+        "path": "./photos/2019/September/Osaka & Kyoto/06.jpg",
+        "min_path": "./photos/2019/September/Osaka & Kyoto/06.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3763,
+        "height": 5644,
+        "path": "./photos/2019/September/Osaka & Kyoto/07.jpg",
+        "min_path": "./photos/2019/September/Osaka & Kyoto/07.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 2517,
+        "height": 3776,
+        "path": "./photos/2019/September/Osaka & Kyoto/08.jpg",
+        "min_path": "./photos/2019/September/Osaka & Kyoto/08.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3922,
+        "height": 5883,
+        "path": "./photos/2019/September/Osaka & Kyoto/09.jpg",
+        "min_path": "./photos/2019/September/Osaka & Kyoto/09.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3958,
+        "height": 5937,
+        "path": "./photos/2019/September/Osaka & Kyoto/10.jpg",
+        "min_path": "./photos/2019/September/Osaka & Kyoto/10.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3887,
+        "height": 5831,
+        "path": "./photos/2019/September/Osaka & Kyoto/11.jpg",
+        "min_path": "./photos/2019/September/Osaka & Kyoto/11.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3914,
+        "height": 5871,
+        "path": "./photos/2019/September/Osaka & Kyoto/12.jpg",
+        "min_path": "./photos/2019/September/Osaka & Kyoto/12.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 5014,
+        "height": 3343,
+        "path": "./photos/2019/September/Osaka & Kyoto/13.jpg",
+        "min_path": "./photos/2019/September/Osaka & Kyoto/13.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 5878,
+        "height": 3919,
+        "path": "./photos/2019/September/Osaka & Kyoto/14.jpg",
+        "min_path": "./photos/2019/September/Osaka & Kyoto/14.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 5482,
+        "height": 3655,
+        "path": "./photos/2019/September/Osaka & Kyoto/15.jpg",
+        "min_path": "./photos/2019/September/Osaka & Kyoto/15.min.jpg"
+      }
+    ]
+  },
+  {
     "name": "Street Photography",
     "type": "photos",
     "parents": [

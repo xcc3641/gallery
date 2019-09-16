@@ -18,10 +18,39 @@
         ],
         "items": {
           "order": [
+            "September",
             "August",
             "May"
           ],
           "dict": {
+            "September": {
+              "name": "September",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2019",
+                "September"
+              ],
+              "items": {
+                "order": [
+                  "Osaka & Kyoto"
+                ],
+                "dict": {
+                  "Osaka & Kyoto": {
+                    "name": "Osaka & Kyoto",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2019",
+                      "September",
+                      "Osaka & Kyoto"
+                    ],
+                    "path": "./_data/albums/2019-September-Osaka & Kyoto.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
             "August": {
               "name": "August",
               "type": "album",
