@@ -3,19 +3,42 @@
 .gallary {
   max-width: 955px;
   margin: 7em auto;
+  font-size: 16px;
+}
+.head {
+  margin-top: 1.8em;
+  margin-bottom: 1em;
+
+  &.head-1 {
+    @include headline(1.6em, $heading1)
+  }
+  &.head-2 {
+    @include headline(1.4em, $heading2)
+  }
+  &.head-3 {
+    @include headline(1.2em, $heading3)
+  }
+  &.head-4 {
+    @include headline(1em, $heading4)
+  }
+  &.head-5 {
+    @include headline(0.8em, $heading5)
+  }
+
+  strong {
+    font-weight: 400;
+  }
 }
 .photos {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  align-content: space-around;
+  display: grid;
+  grid-template: 1fr / repeat(var(--column, 3), 1fr);
+  column-gap: var(--column-gap, 20px);
+  row-gap: var(--row-gap, 20px);
 }
 .photo-figure {
-  flex: 0 0 calc(100% / var(--column) - 20px);
-  padding: 10px;
+  padding: var(--frame-padding);
   box-sizing: border-box;
   background-color: $surface;
-  margin-bottom: 40px;
   position: relative;
 }
 .photo-a {
@@ -59,14 +82,15 @@ button.pswp__button.pswp__button--share {
     font-size: 1.5em;
   }
   h2 {
-    font-size: 0.9em;
+    font-size: 1em;
   }
   h1, h2 {
     margin-left: 12px;
   }
-  .photo-figure {
-    flex: 0 0 calc(100% / var(--column-small) - 3px);
-    margin-bottom: 6px;
+  .photos {
+    grid-template: 1fr / repeat(var(--column-small, 2), 1fr);
+    column-gap: 10px;
+    row-gap: 10px;
   }
   .pswp__counter {
     font-size: larger;

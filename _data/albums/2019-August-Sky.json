@@ -1,0 +1,78 @@
+{
+  "order": [
+    "sky-01.jpg",
+    "sky-02.jpg",
+    "sky-03.jpg",
+    "sky-04.jpg",
+    "sky-05.jpg",
+    "sky-06.jpg",
+    "sky-07.jpg",
+    "sky-08.jpg",
+    "sky-09.jpg"
+  ],
+  "dict": {
+    "sky-01.jpg": {
+      "type": "photo",
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/2019/August/Sky/sky-01.jpg",
+      "min_path": "./photos/2019/August/Sky/sky-01.min.jpg"
+    },
+    "sky-02.jpg": {
+      "type": "photo",
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/2019/August/Sky/sky-02.jpg",
+      "min_path": "./photos/2019/August/Sky/sky-02.min.jpg"
+    },
+    "sky-03.jpg": {
+      "type": "photo",
+      "width": 5432,
+      "height": 3621,
+      "path": "./photos/2019/August/Sky/sky-03.jpg",
+      "min_path": "./photos/2019/August/Sky/sky-03.min.jpg"
+    },
+    "sky-04.jpg": {
+      "type": "photo",
+      "width": 4000,
+      "height": 6000,
+      "path": "./photos/2019/August/Sky/sky-04.jpg",
+      "min_path": "./photos/2019/August/Sky/sky-04.min.jpg"
+    },
+    "sky-05.jpg": {
+      "type": "photo",
+      "width": 4000,
+      "height": 6000,
+      "path": "./photos/2019/August/Sky/sky-05.jpg",
+      "min_path": "./photos/2019/August/Sky/sky-05.min.jpg"
+    },
+    "sky-06.jpg": {
+      "type": "photo",
+      "width": 3265,
+      "height": 4898,
+      "path": "./photos/2019/August/Sky/sky-06.jpg",
+      "min_path": "./photos/2019/August/Sky/sky-06.min.jpg"
+    },
+    "sky-07.jpg": {
+      "type": "photo",
+      "width": 5833,
+      "height": 3889,
+      "path": "./photos/2019/August/Sky/sky-07.jpg",
+      "min_path": "./photos/2019/August/Sky/sky-07.min.jpg"
+    },
+    "sky-08.jpg": {
+      "type": "photo",
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/2019/August/Sky/sky-08.jpg",
+      "min_path": "./photos/2019/August/Sky/sky-08.min.jpg"
+    },
+    "sky-09.jpg": {
+      "type": "photo",
+      "width": 4898,
+      "height": 3265,
+      "path": "./photos/2019/August/Sky/sky-09.jpg",
+      "min_path": "./photos/2019/August/Sky/sky-09.min.jpg"
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "name": "Horcrux",
+  "type": "album",
+  "root": 0,
+  "parents": [],
+  "items": {
+    "order": [
+      "2019",
+      "2018"
+    ],
+    "dict": {
+      "2019": {
+        "name": "2019",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2019"
+        ],
+        "items": {
+          "order": [
+            "August",
+            "May"
+          ],
+          "dict": {
+            "August": {
+              "name": "August",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2019",
+                "August"
+              ],
+              "items": {
+                "order": [
+                  "Street Photography In ShangHai",
+                  "Film of Kodak Gold & Color 200",
+                  "Sky"
+                ],
+                "dict": {
+                  "Street Photography In ShangHai": {
+                    "name": "Street Photography In ShangHai",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2019",
+                      "August",
+                      "Street Photography In ShangHai"
+                    ],
+                    "path": "./_data/albums/2019-August-Street Photography In ShangHai.json",
+                    "no_sub_album": true
+                  },
+                  "Film of Kodak Gold & Color 200": {
+                    "name": "Film of Kodak Gold & Color 200",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2019",
+                      "August",
+                      "Film of Kodak Gold & Color 200"
+                    ],
+                    "path": "./_data/albums/2019-August-Film of Kodak Gold & Color 200.json",
+                    "no_sub_album": true
+                  },
+                  "Sky": {
+                    "name": "Sky",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2019",
+                      "August",
+                      "Sky"
+                    ],
+                    "path": "./_data/albums/2019-August-Sky.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            },
+            "May": {
+              "name": "May",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2019",
+                "May"
+              ],
+              "items": {
+                "order": [
+                  "San Francisco"
+                ],
+                "dict": {
+                  "San Francisco": {
+                    "name": "San Francisco",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2019",
+                      "May",
+                      "San Francisco"
+                    ],
+                    "path": "./_data/albums/2019-May-San Francisco.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "2018": {
+        "name": "2018",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2018"
+        ],
+        "items": {
+          "order": [
+            "December"
+          ],
+          "dict": {
+            "December": {
+              "name": "December",
+              "type": "album",
+              "root": 2,
+              "parents": [
+                "2018",
+                "December"
+              ],
+              "items": {
+                "order": [
+                  "Hokkaido"
+                ],
+                "dict": {
+                  "Hokkaido": {
+                    "name": "Hokkaido",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2018",
+                      "December",
+                      "Hokkaido"
+                    ],
+                    "path": "./_data/albums/2018-December-Hokkaido.json",
+                    "no_sub_album": true
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

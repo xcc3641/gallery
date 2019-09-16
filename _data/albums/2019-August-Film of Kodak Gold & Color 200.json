@@ -1,0 +1,94 @@
+{
+  "order": [
+    "1.jpg",
+    "10.jpg",
+    "11.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg",
+    "6.jpg",
+    "7.jpg",
+    "8.jpg",
+    "9.jpg"
+  ],
+  "dict": {
+    "1.jpg": {
+      "type": "photo",
+      "width": 4585,
+      "height": 3027,
+      "path": "./photos/2019/August/Film of Kodak Gold & Color 200/1.jpg",
+      "min_path": "./photos/2019/August/Film of Kodak Gold & Color 200/1.min.jpg"
+    },
+    "10.jpg": {
+      "type": "photo",
+      "width": 4585,
+      "height": 3027,
+      "path": "./photos/2019/August/Film of Kodak Gold & Color 200/10.jpg",
+      "min_path": "./photos/2019/August/Film of Kodak Gold & Color 200/10.min.jpg"
+    },
+    "11.jpg": {
+      "type": "photo",
+      "width": 4585,
+      "height": 3027,
+      "path": "./photos/2019/August/Film of Kodak Gold & Color 200/11.jpg",
+      "min_path": "./photos/2019/August/Film of Kodak Gold & Color 200/11.min.jpg"
+    },
+    "2.jpg": {
+      "type": "photo",
+      "width": 4585,
+      "height": 3027,
+      "path": "./photos/2019/August/Film of Kodak Gold & Color 200/2.jpg",
+      "min_path": "./photos/2019/August/Film of Kodak Gold & Color 200/2.min.jpg"
+    },
+    "3.jpg": {
+      "type": "photo",
+      "width": 4559,
+      "height": 3047,
+      "path": "./photos/2019/August/Film of Kodak Gold & Color 200/3.jpg",
+      "min_path": "./photos/2019/August/Film of Kodak Gold & Color 200/3.min.jpg"
+    },
+    "4.jpg": {
+      "type": "photo",
+      "width": 4585,
+      "height": 3027,
+      "path": "./photos/2019/August/Film of Kodak Gold & Color 200/4.jpg",
+      "min_path": "./photos/2019/August/Film of Kodak Gold & Color 200/4.min.jpg"
+    },
+    "5.jpg": {
+      "type": "photo",
+      "width": 4585,
+      "height": 3027,
+      "path": "./photos/2019/August/Film of Kodak Gold & Color 200/5.jpg",
+      "min_path": "./photos/2019/August/Film of Kodak Gold & Color 200/5.min.jpg"
+    },
+    "6.jpg": {
+      "type": "photo",
+      "width": 4559,
+      "height": 3047,
+      "path": "./photos/2019/August/Film of Kodak Gold & Color 200/6.jpg",
+      "min_path": "./photos/2019/August/Film of Kodak Gold & Color 200/6.min.jpg"
+    },
+    "7.jpg": {
+      "type": "photo",
+      "width": 4585,
+      "height": 3027,
+      "path": "./photos/2019/August/Film of Kodak Gold & Color 200/7.jpg",
+      "min_path": "./photos/2019/August/Film of Kodak Gold & Color 200/7.min.jpg"
+    },
+    "8.jpg": {
+      "type": "photo",
+      "width": 4585,
+      "height": 3027,
+      "path": "./photos/2019/August/Film of Kodak Gold & Color 200/8.jpg",
+      "min_path": "./photos/2019/August/Film of Kodak Gold & Color 200/8.min.jpg"
+    },
+    "9.jpg": {
+      "type": "photo",
+      "width": 4585,
+      "height": 3027,
+      "path": "./photos/2019/August/Film of Kodak Gold & Color 200/9.jpg",
+      "min_path": "./photos/2019/August/Film of Kodak Gold & Color 200/9.min.jpg"
+    }
+  }
+}
