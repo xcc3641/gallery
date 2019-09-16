@@ -32,33 +32,21 @@
               ],
               "items": {
                 "order": [
-                  "Street Photography In ShangHai",
-                  "Film of Kodak Gold & Color 200",
-                  "Sky"
+                  "Street Photography",
+                  "Sky",
+                  "Film of Kodak Gold & Color 200"
                 ],
                 "dict": {
-                  "Street Photography In ShangHai": {
-                    "name": "Street Photography In ShangHai",
+                  "Street Photography": {
+                    "name": "Street Photography",
                     "type": "album",
                     "root": 3,
                     "parents": [
                       "2019",
                       "August",
-                      "Street Photography In ShangHai"
+                      "Street Photography"
                     ],
-                    "path": "./_data/albums/2019-August-Street Photography In ShangHai.json",
-                    "no_sub_album": true
-                  },
-                  "Film of Kodak Gold & Color 200": {
-                    "name": "Film of Kodak Gold & Color 200",
-                    "type": "album",
-                    "root": 3,
-                    "parents": [
-                      "2019",
-                      "August",
-                      "Film of Kodak Gold & Color 200"
-                    ],
-                    "path": "./_data/albums/2019-August-Film of Kodak Gold & Color 200.json",
+                    "path": "./_data/albums/2019-August-Street Photography.json",
                     "no_sub_album": true
                   },
                   "Sky": {
@@ -71,6 +59,18 @@
                       "Sky"
                     ],
                     "path": "./_data/albums/2019-August-Sky.json",
+                    "no_sub_album": true
+                  },
+                  "Film of Kodak Gold & Color 200": {
+                    "name": "Film of Kodak Gold & Color 200",
+                    "type": "album",
+                    "root": 3,
+                    "parents": [
+                      "2019",
+                      "August",
+                      "Film of Kodak Gold & Color 200"
+                    ],
+                    "path": "./_data/albums/2019-August-Film of Kodak Gold & Color 200.json",
                     "no_sub_album": true
                   }
                 }

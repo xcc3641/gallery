@@ -1,96 +1,170 @@
 [
   {
-    "name": "Street Photography In ShangHai",
+    "name": "Street Photography",
     "type": "photos",
     "parents": [
       "2019",
       "August",
-      "Street Photography In ShangHai"
+      "Street Photography"
     ],
     "list": [
       {
         "type": "photo",
         "width": 4864,
         "height": 3243,
-        "path": "./photos/2019/August/Street Photography In ShangHai/01.jpg",
-        "min_path": "./photos/2019/August/Street Photography In ShangHai/01.min.jpg"
+        "path": "./photos/2019/August/Street Photography/01.jpg",
+        "min_path": "./photos/2019/August/Street Photography/01.min.jpg"
       },
       {
         "type": "photo",
         "width": 6000,
         "height": 4000,
-        "path": "./photos/2019/August/Street Photography In ShangHai/02.jpg",
-        "min_path": "./photos/2019/August/Street Photography In ShangHai/02.min.jpg"
+        "path": "./photos/2019/August/Street Photography/02.jpg",
+        "min_path": "./photos/2019/August/Street Photography/02.min.jpg"
       },
       {
         "type": "photo",
         "width": 5845,
         "height": 3897,
-        "path": "./photos/2019/August/Street Photography In ShangHai/03.jpg",
-        "min_path": "./photos/2019/August/Street Photography In ShangHai/03.min.jpg"
+        "path": "./photos/2019/August/Street Photography/03.jpg",
+        "min_path": "./photos/2019/August/Street Photography/03.min.jpg"
       },
       {
         "type": "photo",
         "width": 4000,
         "height": 6000,
-        "path": "./photos/2019/August/Street Photography In ShangHai/04.jpg",
-        "min_path": "./photos/2019/August/Street Photography In ShangHai/04.min.jpg"
+        "path": "./photos/2019/August/Street Photography/04.jpg",
+        "min_path": "./photos/2019/August/Street Photography/04.min.jpg"
       },
       {
         "type": "photo",
         "width": 4000,
         "height": 6000,
-        "path": "./photos/2019/August/Street Photography In ShangHai/05.jpg",
-        "min_path": "./photos/2019/August/Street Photography In ShangHai/05.min.jpg"
+        "path": "./photos/2019/August/Street Photography/05.jpg",
+        "min_path": "./photos/2019/August/Street Photography/05.min.jpg"
       },
       {
         "type": "photo",
         "width": 4000,
         "height": 6000,
-        "path": "./photos/2019/August/Street Photography In ShangHai/06.jpg",
-        "min_path": "./photos/2019/August/Street Photography In ShangHai/06.min.jpg"
+        "path": "./photos/2019/August/Street Photography/06.jpg",
+        "min_path": "./photos/2019/August/Street Photography/06.min.jpg"
       },
       {
         "type": "photo",
         "width": 4000,
         "height": 6000,
-        "path": "./photos/2019/August/Street Photography In ShangHai/07.jpg",
-        "min_path": "./photos/2019/August/Street Photography In ShangHai/07.min.jpg"
+        "path": "./photos/2019/August/Street Photography/07.jpg",
+        "min_path": "./photos/2019/August/Street Photography/07.min.jpg"
       },
       {
         "type": "photo",
         "width": 3393,
         "height": 5089,
-        "path": "./photos/2019/August/Street Photography In ShangHai/08.jpg",
-        "min_path": "./photos/2019/August/Street Photography In ShangHai/08.min.jpg"
+        "path": "./photos/2019/August/Street Photography/08.jpg",
+        "min_path": "./photos/2019/August/Street Photography/08.min.jpg"
       },
       {
         "type": "photo",
         "width": 3996,
         "height": 5994,
-        "path": "./photos/2019/August/Street Photography In ShangHai/09.jpg",
-        "min_path": "./photos/2019/August/Street Photography In ShangHai/09.min.jpg"
+        "path": "./photos/2019/August/Street Photography/09.jpg",
+        "min_path": "./photos/2019/August/Street Photography/09.min.jpg"
       },
       {
         "type": "photo",
         "width": 3607,
         "height": 5410,
-        "path": "./photos/2019/August/Street Photography In ShangHai/10.jpg",
-        "min_path": "./photos/2019/August/Street Photography In ShangHai/10.min.jpg"
+        "path": "./photos/2019/August/Street Photography/10.jpg",
+        "min_path": "./photos/2019/August/Street Photography/10.min.jpg"
       },
       {
         "type": "photo",
         "width": 3580,
         "height": 5370,
-        "path": "./photos/2019/August/Street Photography In ShangHai/11.jpg",
-        "min_path": "./photos/2019/August/Street Photography In ShangHai/11.min.jpg"
+        "path": "./photos/2019/August/Street Photography/11.jpg",
+        "min_path": "./photos/2019/August/Street Photography/11.min.jpg"
       },
       {
         "type": "photo",
         "width": 3845,
         "height": 5767,
-        "path": "./photos/2019/August/Street Photography In ShangHai/12.jpg",
-        "min_path": "./photos/2019/August/Street Photography In ShangHai/12.min.jpg"
+        "path": "./photos/2019/August/Street Photography/12.jpg",
+        "min_path": "./photos/2019/August/Street Photography/12.min.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Sky",
+    "type": "photos",
+    "parents": [
+      "2019",
+      "August",
+      "Sky"
+    ],
+    "list": [
+      {
+        "type": "photo",
+        "width": 6000,
+        "height": 4000,
+        "path": "./photos/2019/August/Sky/sky-01.jpg",
+        "min_path": "./photos/2019/August/Sky/sky-01.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 6000,
+        "height": 4000,
+        "path": "./photos/2019/August/Sky/sky-02.jpg",
+        "min_path": "./photos/2019/August/Sky/sky-02.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 5432,
+        "height": 3621,
+        "path": "./photos/2019/August/Sky/sky-03.jpg",
+        "min_path": "./photos/2019/August/Sky/sky-03.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4000,
+        "height": 6000,
+        "path": "./photos/2019/August/Sky/sky-04.jpg",
+        "min_path": "./photos/2019/August/Sky/sky-04.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4000,
+        "height": 6000,
+        "path": "./photos/2019/August/Sky/sky-05.jpg",
+        "min_path": "./photos/2019/August/Sky/sky-05.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 3265,
+        "height": 4898,
+        "path": "./photos/2019/August/Sky/sky-06.jpg",
+        "min_path": "./photos/2019/August/Sky/sky-06.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 5833,
+        "height": 3889,
+        "path": "./photos/2019/August/Sky/sky-07.jpg",
+        "min_path": "./photos/2019/August/Sky/sky-07.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 6000,
+        "height": 4000,
+        "path": "./photos/2019/August/Sky/sky-08.jpg",
+        "min_path": "./photos/2019/August/Sky/sky-08.min.jpg"
+      },
+      {
+        "type": "photo",
+        "width": 4898,
+        "height": 3265,
+        "path": "./photos/2019/August/Sky/sky-09.jpg",
+        "min_path": "./photos/2019/August/Sky/sky-09.min.jpg"
       }
     ]
   },
@@ -179,80 +253,6 @@
         "height": 3027,
         "path": "./photos/2019/August/Film of Kodak Gold & Color 200/9.jpg",
         "min_path": "./photos/2019/August/Film of Kodak Gold & Color 200/9.min.jpg"
-      }
-    ]
-  },
-  {
-    "name": "Sky",
-    "type": "photos",
-    "parents": [
-      "2019",
-      "August",
-      "Sky"
-    ],
-    "list": [
-      {
-        "type": "photo",
-        "width": 6000,
-        "height": 4000,
-        "path": "./photos/2019/August/Sky/sky-01.jpg",
-        "min_path": "./photos/2019/August/Sky/sky-01.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 6000,
-        "height": 4000,
-        "path": "./photos/2019/August/Sky/sky-02.jpg",
-        "min_path": "./photos/2019/August/Sky/sky-02.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 5432,
-        "height": 3621,
-        "path": "./photos/2019/August/Sky/sky-03.jpg",
-        "min_path": "./photos/2019/August/Sky/sky-03.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 4000,
-        "height": 6000,
-        "path": "./photos/2019/August/Sky/sky-04.jpg",
-        "min_path": "./photos/2019/August/Sky/sky-04.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 4000,
-        "height": 6000,
-        "path": "./photos/2019/August/Sky/sky-05.jpg",
-        "min_path": "./photos/2019/August/Sky/sky-05.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 3265,
-        "height": 4898,
-        "path": "./photos/2019/August/Sky/sky-06.jpg",
-        "min_path": "./photos/2019/August/Sky/sky-06.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 5833,
-        "height": 3889,
-        "path": "./photos/2019/August/Sky/sky-07.jpg",
-        "min_path": "./photos/2019/August/Sky/sky-07.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 6000,
-        "height": 4000,
-        "path": "./photos/2019/August/Sky/sky-08.jpg",
-        "min_path": "./photos/2019/August/Sky/sky-08.min.jpg"
-      },
-      {
-        "type": "photo",
-        "width": 4898,
-        "height": 3265,
-        "path": "./photos/2019/August/Sky/sky-09.jpg",
-        "min_path": "./photos/2019/August/Sky/sky-09.min.jpg"
       }
     ]
   },
